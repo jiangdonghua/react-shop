@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53daf8ca-0281-4467-8c45-a8cd7851a64e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,11 +27,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-2655">
               <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="528">
+                <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -104,7 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/components/Banner/index.js" />
         <option value="$PROJECT_DIR$/src/components/Banner/style.css" />
         <option value="$PROJECT_DIR$/src/containers/searchResult/index.js" />
         <option value="$PROJECT_DIR$/src/containers/SearchResult/components/KeywordBox/style.css" />
@@ -155,6 +164,7 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/containers/App/index.js" />
         <option value="$PROJECT_DIR$/build/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -229,7 +239,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/A-Work/原粮中枢/baojinsuo-18-7-13" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
@@ -250,19 +260,19 @@
     <property name="ts.external.directory.path" value="D:\webstrom\WebStorm 2018.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my-demo\react-demo\react-shop" />
+      <recent name="D:\my-demo\react-demo\react-shop\src\containers\Login\components\LoginHeader" />
+      <recent name="D:\my-demo\react-demo\react-shop\src\containers\Login\components\LoginForm" />
+      <recent name="D:\my-demo\react-demo\react-shop\src\images" />
+      <recent name="D:\my-demo\react-demo\react-shop\src\containers\searchResult\components" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\my-demo\react-demo\react-shop\src\containers\User\containers" />
       <recent name="D:\my-demo\react-demo\react-shop\src\containers\searchResult\components" />
       <recent name="D:\my-demo\react-demo\react-shop\src\containers\ProductDetail\components" />
       <recent name="D:\my-demo\react-demo\react-shop\src\containers\ProductDetail" />
       <recent name="D:\my-demo\react-demo\react-shop\src\containers\Home\components" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\my-demo\react-demo\react-shop\src\containers\Login\components\LoginHeader" />
-      <recent name="D:\my-demo\react-demo\react-shop\src\containers\Login\components\LoginForm" />
-      <recent name="D:\my-demo\react-demo\react-shop\src\images" />
-      <recent name="D:\my-demo\react-demo\react-shop\src\containers\searchResult\components" />
-      <recent name="D:\my-demo\react-demo\react-shop\src\containers\searchResult" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -347,12 +357,12 @@
       <workItem from="1562817352183" duration="640000" />
       <workItem from="1562898608898" duration="20139000" />
       <workItem from="1563327966066" duration="15725000" />
-      <workItem from="1563374426098" duration="2718000" />
+      <workItem from="1563374426098" duration="3162000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="345426000" />
+    <option name="totallyTimeSpent" value="345870000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -413,16 +423,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/containers/Login/components/LoginHeader/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/containers/Home/components/HomeHeader/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -803,6 +803,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2655">
           <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="528">
+            <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
