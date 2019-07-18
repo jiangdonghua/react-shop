@@ -1,0 +1,373 @@
+{
+  "loginCode": 200,
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "moduleInfoList": [
+      {
+        "moduleName": "cnxh",
+        "version": "0",
+        "config": {
+          "bord": "true",
+          "hideWelfare": "false",
+          "adId": "m_dacu_banner",
+          "showOverlay": "true",
+          "categoryType": "standard",
+          "mainwelfare_utm": "ulink_mainwelfare",
+          "mainwelfare_link_ios": "//link.dianping.com/universal-link?originalUrl=http%3A%2F%2Fevt.dianping.com%2Fsynthesislink%2F10765.html&schema=dianping%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fh5.dianping.com%252Fapp%252Fdaily-benefits%252Fstatic%252Findex.html%2523%252Findex%253Futm_source%253DMcnxh",
+          "mainwelfare_link_android": "//evt.dianping.com/synthesislink/10765.html"
+        },
+        "query": {
+          "startNum": "4"
+        },
+        "lat": "0",
+        "lng": "0",
+        "moduleData": {
+          "code": 200,
+          "msg": "success",
+          "data": {
+            "startNum": 4,
+            "overSea": false,
+            "totalNum": 130,
+            "searchQueryId": "6af769fa-1d65-43a0-8b4b-1a943963d957",
+            "guessYouVoList": [
+              {
+                "shopName": "煎子生",
+                "dealgroupid": "24819949",
+                "dealGroupTitle": "[南京东路] 低至8.0折招牌生煎2选1 ",
+                "dealgroupPrice": "8",
+                "marketPrice": "10",
+                "saleDesc": "",
+                "shopId": "110639855",
+                "defaultPic": "https://p1.meituan.net/deal/691649c881fa3078be8f00a6a8e4390535258.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+                "item_type": "standard",
+                "distance": null,
+                "regionName": "",
+                "tgcurrentjoin": "11020",
+                "recreason": "",
+                "needpromocall": "true",
+                "tgrate": "0.0",
+                "pictag": {
+                  "tag": "免预约",
+                  "color": "#e5bf86"
+                },
+                "itemtag": {
+                  "tag": "",
+                  "color": "#FFF"
+                },
+                "promovalue": "新客减2",
+                "priceexplain": "",
+                "priceextrainfo": "",
+                "salesdesc": "已售11020",
+                "biz_id": "0",
+                "item_type_self": "tuan",
+                "schema": "https://m.dianping.com/tuan/deal/24819949",
+                "discountList": [],
+                "discountTag": "新客减2"
+              },
+              {
+                "shopName": "凉皮先生",
+                "dealgroupid": "21233296",
+                "dealGroupTitle": "[8店通用] 低至8.8折套餐2选1 ",
+                "dealgroupPrice": "14.9",
+                "marketPrice": "17",
+                "saleDesc": "",
+                "shopId": "105743568",
+                "defaultPic": "https://p1.meituan.net/deal/d544dbeffff8a0296163f7c2510182f739282.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+                "item_type": "standard",
+                "distance": null,
+                "regionName": "",
+                "tgcurrentjoin": "16153",
+                "recreason": "",
+                "needpromocall": "true",
+                "tgrate": "0.0",
+                "pictag": {
+                  "tag": "免预约",
+                  "color": "#e5bf86"
+                },
+                "itemtag": {
+                  "tag": "",
+                  "color": "#FFF"
+                },
+                "promovalue": "",
+                "priceexplain": "",
+                "priceextrainfo": "",
+                "salesdesc": "已售16153",
+                "biz_id": "0",
+                "item_type_self": "tuan",
+                "schema": "https://m.dianping.com/tuan/deal/21233296",
+                "discountList": []
+              },
+              {
+                "shopName": "茉酸奶",
+                "dealgroupid": "21709323",
+                "dealGroupTitle": "[2店通用] 低至8.9折奶昔3选1 ",
+                "dealgroupPrice": "16",
+                "marketPrice": "18",
+                "saleDesc": "",
+                "shopId": "95861686",
+                "defaultPic": "https://p1.meituan.net/deal/841c23c67dda5bff784aad60426992bc11340.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+                "item_type": "standard",
+                "distance": null,
+                "regionName": "",
+                "tgcurrentjoin": "4078",
+                "recreason": "",
+                "needpromocall": "true",
+                "tgrate": "0.0",
+                "pictag": {
+                  "tag": "免预约",
+                  "color": "#e5bf86"
+                },
+                "itemtag": {
+                  "tag": "",
+                  "color": "#FFF"
+                },
+                "promovalue": "",
+                "priceexplain": "",
+                "priceextrainfo": "",
+                "salesdesc": "已售4078",
+                "biz_id": "0",
+                "item_type_self": "tuan",
+                "schema": "https://m.dianping.com/tuan/deal/21709323",
+                "discountList": []
+              },
+              {
+                "shopName": "西树泡芙",
+                "dealgroupid": "21532717",
+                "dealGroupTitle": "[2店通用] 低至7.9折代金券1张 ",
+                "dealgroupPrice": "23.8",
+                "marketPrice": "30",
+                "saleDesc": "",
+                "shopId": "6260661",
+                "defaultPic": "https://p0.meituan.net/deal/a2b41c453597d2710221c8bedc0e1bd777233.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+                "item_type": "standard",
+                "distance": null,
+                "regionName": "",
+                "tgcurrentjoin": "4438",
+                "recreason": "",
+                "needpromocall": "true",
+                "tgrate": "0.0",
+                "pictag": {
+                  "tag": "",
+                  "color": "#e5bf86"
+                },
+                "itemtag": {
+                  "tag": "",
+                  "color": "#FFF"
+                },
+                "promovalue": "",
+                "priceexplain": "",
+                "priceextrainfo": "",
+                "salesdesc": "已售4438",
+                "biz_id": "0",
+                "item_type_self": "tuan",
+                "schema": "https://m.dianping.com/tuan/deal/21532717",
+                "discountList": []
+              },
+              {
+                "shopName": "老北桥过桥米线",
+                "dealgroupid": "25086585",
+                "dealGroupTitle": "[3店通用] 低至7.1折招牌过桥米线1份 ",
+                "dealgroupPrice": "19.9",
+                "marketPrice": "28",
+                "saleDesc": "",
+                "shopId": "66910315",
+                "defaultPic": "https://p1.meituan.net/deal/aca981b70cf8d8e0cc13bdc7264cdf6e90506.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+                "item_type": "standard",
+                "distance": null,
+                "regionName": "",
+                "tgcurrentjoin": "6308",
+                "recreason": "",
+                "needpromocall": "true",
+                "tgrate": "0.0",
+                "pictag": {
+                  "tag": "免预约",
+                  "color": "#e5bf86"
+                },
+                "itemtag": {
+                  "tag": "",
+                  "color": "#FFF"
+                },
+                "promovalue": "",
+                "priceexplain": "",
+                "priceextrainfo": "",
+                "salesdesc": "已售6308",
+                "biz_id": "0",
+                "item_type_self": "tuan",
+                "schema": "https://m.dianping.com/tuan/deal/25086585",
+                "discountList": []
+              },
+              {
+                "shopName": "歪串串",
+                "dealgroupid": "16864471",
+                "dealGroupTitle": "[新松江路] 低至8.3折代金券1张 ",
+                "dealgroupPrice": "25",
+                "marketPrice": "30",
+                "saleDesc": "",
+                "shopId": "22713773",
+                "defaultPic": "https://p0.meituan.net/deal/4abfdba2f314497a7ae112b25b6cc7d7323489.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+                "item_type": "standard",
+                "distance": null,
+                "regionName": "",
+                "tgcurrentjoin": "6691",
+                "recreason": "",
+                "needpromocall": "true",
+                "tgrate": "1.0",
+                "pictag": {
+                  "tag": "免预约",
+                  "color": "#e5bf86"
+                },
+                "itemtag": {
+                  "tag": "",
+                  "color": "#FFF"
+                },
+                "promovalue": "",
+                "priceexplain": "",
+                "priceextrainfo": "",
+                "salesdesc": "已售6691",
+                "biz_id": "0",
+                "item_type_self": "tuan",
+                "schema": "https://m.dianping.com/tuan/deal/16864471",
+                "discountList": []
+              },
+              {
+                "shopName": "侬来辣冒菜",
+                "dealgroupid": "19086856",
+                "dealGroupTitle": "低至8.7折代金券1张 ",
+                "dealgroupPrice": "26",
+                "marketPrice": "30",
+                "saleDesc": "",
+                "shopId": "65561362",
+                "defaultPic": "https://p0.meituan.net/deal/2a04b89a5d41042a1b7d994ed775d49056335.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+                "item_type": "standard",
+                "distance": null,
+                "regionName": "",
+                "tgcurrentjoin": "5578",
+                "recreason": "",
+                "needpromocall": "true",
+                "tgrate": "0.98",
+                "pictag": {
+                  "tag": "免预约",
+                  "color": "#e5bf86"
+                },
+                "itemtag": {
+                  "tag": "",
+                  "color": "#FFF"
+                },
+                "promovalue": "",
+                "priceexplain": "",
+                "priceextrainfo": "",
+                "salesdesc": "已售5578",
+                "biz_id": "0",
+                "item_type_self": "tuan",
+                "schema": "https://m.dianping.com/tuan/deal/19086856",
+                "discountList": []
+              },
+              {
+                "shopName": "一崎转转锅",
+                "dealgroupid": "22437222",
+                "dealGroupTitle": "[5店通用] 低至9.2折火锅自助午餐 ",
+                "dealgroupPrice": "36",
+                "marketPrice": "39",
+                "saleDesc": "",
+                "shopId": "66275890",
+                "defaultPic": "https://p0.meituan.net/deal/882d9c22a7c38f585e2e59b2974d4f0f75371.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+                "item_type": "standard",
+                "distance": null,
+                "regionName": "",
+                "tgcurrentjoin": "34697",
+                "recreason": "",
+                "needpromocall": "true",
+                "tgrate": "0.0",
+                "pictag": {
+                  "tag": "免预约",
+                  "color": "#e5bf86"
+                },
+                "itemtag": {
+                  "tag": "",
+                  "color": "#FFF"
+                },
+                "promovalue": "",
+                "priceexplain": "",
+                "priceextrainfo": "",
+                "salesdesc": "已售34697",
+                "biz_id": "0",
+                "item_type_self": "tuan",
+                "schema": "https://m.dianping.com/tuan/deal/22437222",
+                "discountList": []
+              },
+              {
+                "shopName": "霄张花甲",
+                "dealgroupid": "14298771",
+                "dealGroupTitle": "[南翔] 低至8.7折单人份吮指花甲 ",
+                "dealgroupPrice": "27.8",
+                "marketPrice": "32",
+                "saleDesc": "",
+                "shopId": "56625212",
+                "defaultPic": "https://p1.meituan.net/deal/49330bd1faa35278e85df372dce40acb88911.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+                "item_type": "standard",
+                "distance": null,
+                "regionName": "",
+                "tgcurrentjoin": "8998",
+                "recreason": "",
+                "needpromocall": "true",
+                "tgrate": "0.98",
+                "pictag": {
+                  "tag": "免预约",
+                  "color": "#e5bf86"
+                },
+                "itemtag": {
+                  "tag": "",
+                  "color": "#FFF"
+                },
+                "promovalue": "",
+                "priceexplain": "",
+                "priceextrainfo": "",
+                "salesdesc": "已售8998",
+                "biz_id": "0",
+                "item_type_self": "tuan",
+                "schema": "https://m.dianping.com/tuan/deal/14298771",
+                "discountList": []
+              },
+              {
+                "shopName": "武藏野",
+                "dealgroupid": "27853946",
+                "dealGroupTitle": "[3店通用] 低至9.0折新客代金券1张 ",
+                "dealgroupPrice": "45",
+                "marketPrice": "50",
+                "saleDesc": "",
+                "shopId": "113940028",
+                "defaultPic": "https://p0.meituan.net/deal/80c02f5568d70e8310222225760efc3e19583.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+                "item_type": "standard",
+                "distance": null,
+                "regionName": "",
+                "tgcurrentjoin": "58022",
+                "recreason": "",
+                "needpromocall": "true",
+                "tgrate": "0.0",
+                "pictag": {
+                  "tag": "免预约",
+                  "color": "#e5bf86"
+                },
+                "itemtag": {
+                  "tag": "",
+                  "color": "#FFF"
+                },
+                "promovalue": "",
+                "priceexplain": "",
+                "priceextrainfo": "",
+                "salesdesc": "已售58022",
+                "biz_id": "0",
+                "item_type_self": "tuan",
+                "schema": "https://m.dianping.com/tuan/deal/27853946",
+                "discountList": []
+              }
+            ],
+            "mainwelfareUrl": "//link.dianping.com/universal-link?originalUrl=http%3A%2F%2Fevt.dianping.com%2Fsynthesislink%2F10765.html&schema=dianping%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fh5.dianping.com%252Fapp%252Fdaily-benefits%252Fstatic%252Findex.html%2523%252Findex%253Futm_source%253DMcnxh",
+            "adConfig": []
+          }
+        }
+      }
+    ]
+  }
+}

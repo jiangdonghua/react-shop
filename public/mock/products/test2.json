@@ -1,0 +1,362 @@
+{
+  "loginCode": 200,
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "moduleInfoList": [
+      {
+        "moduleName": "cnxh",
+        "version": "0",
+        "config": {
+          "bord": "true",
+          "hideWelfare": "false",
+          "adId": "m_dacu_banner",
+          "showOverlay": "true",
+          "categoryType": "standard",
+          "mainwelfare_utm": "ulink_mainwelfare",
+          "mainwelfare_link_ios": "//link.dianping.com/universal-link?originalUrl=http%3A%2F%2Fevt.dianping.com%2Fsynthesislink%2F10765.html&schema=dianping%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fh5.dianping.com%252Fapp%252Fdaily-benefits%252Fstatic%252Findex.html%2523%252Findex%253Futm_source%253DMcnxh",
+          "mainwelfare_link_android": "//evt.dianping.com/synthesislink/10765.html"
+        },
+        "query": {
+          "startNum": "2"
+        },
+        "lat": "0",
+        "lng": "0",
+        "moduleData": {
+          "code": 200,
+          "msg": "success",
+          "data": {
+            "startNum": 2,
+            "overSea": false,
+            "totalNum": 130,
+            "searchQueryId": "71b84e6e-6454-4247-b5a4-cd53d8993b44",
+            "guessYouVoList": [
+              {
+                "shopName": "欧洲冻酸奶",
+                "dealgroupid": "12527368",
+                "dealGroupTitle": "[月星环球港] 低至8.0折冻酸奶（小杯）1杯 ",
+                "dealgroupPrice": "20",
+                "marketPrice": "25",
+                "saleDesc": "",
+                "shopId": "77474382",
+                "defaultPic": "https://p1.meituan.net/deal/4a17d59dc28523a36f5ab534fb8a1099199375.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+                "item_type": "standard",
+                "distance": null,
+                "regionName": "",
+                "tgcurrentjoin": "99588",
+                "recreason": "",
+                "needpromocall": "true",
+                "tgrate": "0.99",
+                "pictag": {
+                  "tag": "免预约",
+                  "color": "#e5bf86"
+                },
+                "itemtag": {
+                  "tag": "",
+                  "color": "#FFF"
+                },
+                "promovalue": "",
+                "priceexplain": "",
+                "priceextrainfo": "",
+                "salesdesc": "已售99588",
+                "biz_id": "0",
+                "item_type_self": "tuan",
+                "schema": "https://m.dianping.com/tuan/deal/12527368"
+              },
+              {
+                "shopName": "秦川老碗",
+                "dealgroupid": "17665453",
+                "dealGroupTitle": "[老闵行] 低至6.8折单人餐 ",
+                "dealgroupPrice": "10.9",
+                "marketPrice": "16",
+                "saleDesc": "",
+                "shopId": "73501435",
+                "defaultPic": "https://p1.meituan.net/deal/__28107954__3508781.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+                "item_type": "standard",
+                "distance": null,
+                "regionName": "",
+                "tgcurrentjoin": "3936",
+                "recreason": "",
+                "needpromocall": "true",
+                "tgrate": "0.97",
+                "pictag": {
+                  "tag": "免预约",
+                  "color": "#e5bf86"
+                },
+                "itemtag": {
+                  "tag": "",
+                  "color": "#FFF"
+                },
+                "promovalue": "",
+                "priceexplain": "",
+                "priceextrainfo": "",
+                "salesdesc": "已售3936",
+                "biz_id": "0",
+                "item_type_self": "tuan",
+                "schema": "https://m.dianping.com/tuan/deal/17665453"
+              },
+              {
+                "shopName": "加乐奇",
+                "dealgroupid": "19726009",
+                "dealGroupTitle": "[4店通用] 低至5.3折艾比利汉堡单人套餐 ",
+                "dealgroupPrice": "14.4",
+                "marketPrice": "27",
+                "saleDesc": "",
+                "shopId": "98736104",
+                "defaultPic": "https://p0.meituan.net/deal/5d77041e55acd209dceb0f3df93e272057637.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+                "item_type": "standard",
+                "distance": null,
+                "regionName": "",
+                "tgcurrentjoin": "1296",
+                "recreason": "",
+                "needpromocall": "true",
+                "tgrate": "0.0",
+                "pictag": {
+                  "tag": "免预约",
+                  "color": "#e5bf86"
+                },
+                "itemtag": {
+                  "tag": "",
+                  "color": "#FFF"
+                },
+                "promovalue": "",
+                "priceexplain": "",
+                "priceextrainfo": "",
+                "salesdesc": "已售1296",
+                "biz_id": "0",
+                "item_type_self": "tuan",
+                "schema": "https://m.dianping.com/tuan/deal/19726009"
+              },
+              {
+                "shopName": "龙门花甲",
+                "dealgroupid": "22261052",
+                "dealGroupTitle": "[8店通用] 低至7.6折招牌花甲 ",
+                "dealgroupPrice": "16.8",
+                "marketPrice": "22",
+                "saleDesc": "",
+                "shopId": "67629888",
+                "defaultPic": "https://p0.meituan.net/deal/9e78d1f1cab490eb1e3d2b9c20768637100034.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+                "item_type": "standard",
+                "distance": null,
+                "regionName": "",
+                "tgcurrentjoin": "9939",
+                "recreason": "",
+                "needpromocall": "true",
+                "tgrate": "0.0",
+                "pictag": {
+                  "tag": "免预约",
+                  "color": "#e5bf86"
+                },
+                "itemtag": {
+                  "tag": "",
+                  "color": "#FFF"
+                },
+                "promovalue": "",
+                "priceexplain": "",
+                "priceextrainfo": "",
+                "salesdesc": "已售9939",
+                "biz_id": "0",
+                "item_type_self": "tuan",
+                "schema": "https://m.dianping.com/tuan/deal/22261052"
+              },
+              {
+                "shopName": "陆湘烤猪蹄店",
+                "dealgroupid": "18329920",
+                "dealGroupTitle": "[嘉定镇] 低至9.1折烤猪蹄1份 ",
+                "dealgroupPrice": "12.8",
+                "marketPrice": "14",
+                "saleDesc": "",
+                "shopId": "58919293",
+                "defaultPic": "https://p1.meituan.net/deal/__46171757__9330126.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+                "item_type": "standard",
+                "distance": null,
+                "regionName": "",
+                "tgcurrentjoin": "7430",
+                "recreason": "",
+                "needpromocall": "true",
+                "tgrate": "0.0",
+                "pictag": {
+                  "tag": "免预约",
+                  "color": "#e5bf86"
+                },
+                "itemtag": {
+                  "tag": "",
+                  "color": "#FFF"
+                },
+                "promovalue": "",
+                "priceexplain": "",
+                "priceextrainfo": "",
+                "salesdesc": "已售7430",
+                "biz_id": "0",
+                "item_type_self": "tuan",
+                "schema": "https://m.dianping.com/tuan/deal/18329920"
+              },
+              {
+                "shopName": "沈家门海鲜面馆",
+                "dealgroupid": "13997844",
+                "dealGroupTitle": "[新理想广场] 低至9.3折代金券1张 ",
+                "dealgroupPrice": "18.6",
+                "marketPrice": "20",
+                "saleDesc": "",
+                "shopId": "32489045",
+                "defaultPic": "https://p1.meituan.net/deal/360ede2ecf549c14dee117f4cb15325e199946.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+                "item_type": "standard",
+                "distance": null,
+                "regionName": "",
+                "tgcurrentjoin": "3770",
+                "recreason": "",
+                "needpromocall": "true",
+                "tgrate": "0.98",
+                "pictag": {
+                  "tag": "免预约",
+                  "color": "#e5bf86"
+                },
+                "itemtag": {
+                  "tag": "",
+                  "color": "#FFF"
+                },
+                "promovalue": "",
+                "priceexplain": "",
+                "priceextrainfo": "",
+                "salesdesc": "已售3770",
+                "biz_id": "0",
+                "item_type_self": "tuan",
+                "schema": "https://m.dianping.com/tuan/deal/13997844"
+              },
+              {
+                "shopName": "盘古烤猪蹄",
+                "dealgroupid": "17620018",
+                "dealGroupTitle": "[鹿都国际商业广场] 低至9.7折烤猪蹄1份 ",
+                "dealgroupPrice": "14.5",
+                "marketPrice": "15",
+                "saleDesc": "",
+                "shopId": "18610332",
+                "defaultPic": "https://p0.meituan.net/deal/6e95af07a6208617280f3419f601dd23143288.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+                "item_type": "standard",
+                "distance": null,
+                "regionName": "",
+                "tgcurrentjoin": "6147",
+                "recreason": "",
+                "needpromocall": "true",
+                "tgrate": "0.99",
+                "pictag": {
+                  "tag": "免预约",
+                  "color": "#e5bf86"
+                },
+                "itemtag": {
+                  "tag": "",
+                  "color": "#FFF"
+                },
+                "promovalue": "",
+                "priceexplain": "",
+                "priceextrainfo": "",
+                "salesdesc": "已售6147",
+                "biz_id": "0",
+                "item_type_self": "tuan",
+                "schema": "https://m.dianping.com/tuan/deal/17620018"
+              },
+              {
+                "shopName": "陆湘烤猪蹄",
+                "dealgroupid": "22176037",
+                "dealGroupTitle": "[博乐广场] 低至9.1折方燕烤猪蹄1份 ",
+                "dealgroupPrice": "12.8",
+                "marketPrice": "14",
+                "saleDesc": "",
+                "shopId": "24681533",
+                "defaultPic": "https://p0.meituan.net/deal/bf25127b64361a23c3ccf001c97e716328338.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+                "item_type": "standard",
+                "distance": null,
+                "regionName": "",
+                "tgcurrentjoin": "3611",
+                "recreason": "",
+                "needpromocall": "true",
+                "tgrate": "0.0",
+                "pictag": {
+                  "tag": "免预约",
+                  "color": "#e5bf86"
+                },
+                "itemtag": {
+                  "tag": "",
+                  "color": "#FFF"
+                },
+                "promovalue": "",
+                "priceexplain": "",
+                "priceextrainfo": "",
+                "salesdesc": "已售3611",
+                "biz_id": "0",
+                "item_type_self": "tuan",
+                "schema": "https://m.dianping.com/tuan/deal/22176037"
+              },
+              {
+                "shopName": "木叔小面",
+                "dealgroupid": "19356309",
+                "dealGroupTitle": "[金桥] 低至8.0折泡椒鸡杂面1份 ",
+                "dealgroupPrice": "14.4",
+                "marketPrice": "18",
+                "saleDesc": "",
+                "shopId": "65831920",
+                "defaultPic": "https://p0.meituan.net/deal/6cd12b26f78b91888808e9796661ea5e49349.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+                "item_type": "standard",
+                "distance": null,
+                "regionName": "",
+                "tgcurrentjoin": "4615",
+                "recreason": "",
+                "needpromocall": "true",
+                "tgrate": "0.93",
+                "pictag": {
+                  "tag": "免预约",
+                  "color": "#e5bf86"
+                },
+                "itemtag": {
+                  "tag": "",
+                  "color": "#FFF"
+                },
+                "promovalue": "",
+                "priceexplain": "",
+                "priceextrainfo": "",
+                "salesdesc": "已售4615",
+                "biz_id": "0",
+                "item_type_self": "tuan",
+                "schema": "https://m.dianping.com/tuan/deal/19356309"
+              },
+              {
+                "shopName": "凯司令",
+                "dealgroupid": "18146241",
+                "dealGroupTitle": "[7店通用] 低至9.3折代金券1张 ",
+                "dealgroupPrice": "18.6",
+                "marketPrice": "20",
+                "saleDesc": "",
+                "shopId": "8815643",
+                "defaultPic": "https://p1.meituan.net/deal/__39438402__2957205.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+                "item_type": "standard",
+                "distance": null,
+                "regionName": "",
+                "tgcurrentjoin": "23597",
+                "recreason": "",
+                "needpromocall": "true",
+                "tgrate": "0.98",
+                "pictag": {
+                  "tag": "",
+                  "color": "#e5bf86"
+                },
+                "itemtag": {
+                  "tag": "",
+                  "color": "#FFF"
+                },
+                "promovalue": "",
+                "priceexplain": "",
+                "priceextrainfo": "",
+                "salesdesc": "已售23597",
+                "biz_id": "0",
+                "item_type_self": "tuan",
+                "schema": "https://m.dianping.com/tuan/deal/18146241"
+              }
+            ],
+            "mainwelfareUrl": "//link.dianping.com/universal-link?originalUrl=http%3A%2F%2Fevt.dianping.com%2Fsynthesislink%2F10765.html&schema=dianping%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fh5.dianping.com%252Fapp%252Fdaily-benefits%252Fstatic%252Findex.html%2523%252Findex%253Futm_source%253DMcnxh",
+            "adConfig": []
+          }
+        }
+      }
+    ]
+  }
+}
